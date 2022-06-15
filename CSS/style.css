@@ -15,10 +15,14 @@
 }
 
 footer #fin{
-    text-align: right;
+    padding: 20px 20px;
+    font-size: 20px;
+    font-weight: 900;
+    text-align: center;
     margin-top: 200px;
-    background-color: red;
+    background-color: blueviolet;
 }
+
 #slider{
     margin-left: 0px;
 }
